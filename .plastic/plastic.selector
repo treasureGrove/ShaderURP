@@ -1,0 +1,4 @@
+repository "AI4@tj_94771c40_cfec_4c7a_a313_496a3bdaac6a@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"

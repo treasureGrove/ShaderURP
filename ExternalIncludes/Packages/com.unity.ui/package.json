@@ -1,0 +1,10 @@
+{
+	"name": "com.unity.ui",
+	"displayName": "UI Toolkit",
+	"version": "2.0.0",
+	"type": "shim",
+	"unity": "2021.2",
+	"description": "UI Toolkit is a set of features, resources and tools for developing user interfaces (UI). Use it to develop custom UI and extensions for the Unity Editor, runtime debugging tools, and runtime UI for games and applications.\\r\\n\\r\\nUI Toolkit includes:\\r\\n\\r\\n\\u25aa A retained-mode UI system, based on recognized web technologies, that supports stylesheets, and dynamic and contextual event handling.\\r\\n\\u25aa UXML and USS asset types for building and styling user interfaces. These are inspired by standard web technologies such as XML, HTML, and CSS.\\r\\n\\u25aa Tools and resources such as a built-in UI debugger, the support for the UI Builder visual UI authoring tool, and examples available in the editor.",
+	"dependencies": {
+	}
+}

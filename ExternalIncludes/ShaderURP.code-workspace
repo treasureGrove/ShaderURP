@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"dotnet.defaultSolution": "ShaderURP.sln",
+		"files.associations": {
+			"*.shader": "shaderlab",
+			"*.cginc": "hlsl",
+			"*.hlslinc": "hlsl",
+			"*.hlsl": "hlsl"
+		}
+	}
+}
