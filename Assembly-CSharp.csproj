@@ -94,6 +94,7 @@
     <None Include="Assets\Shader\URPLit.shader" />
     <None Include="Assets\ThirdParty\ForestLake\ReadMe.txt" />
     <None Include="Assets\Shader\SnowTopDownDepthCopyURP.shader" />
+    <None Include="Assets\Script\TA\basic_pixel_shader\urp_opaque.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
